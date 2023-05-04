@@ -1,5 +1,4 @@
 .bg-animation {
-  position: absolute;
   background-image: url(star-wars-bg.png);
   object-fit: fill;
   background-repeat: no-repeat;
